@@ -11,6 +11,9 @@ functions:
       - httpApi:
           method: POST
           path: /test
+      - httpApi:
+          method: GET
+          path: /test
 
 plugins:
   - serverless-offline
