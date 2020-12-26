@@ -1,5 +1,7 @@
 # Serverless Offline `POST` Request Hanging Repro
 
+Repro steps for issue https://github.com/dherault/serverless-offline/issues/1151
+
 Steps to reproduce:
 
 1. Clone repo: `git clone git@github.com:s16h/sls-offline-hanging-repro.git`
