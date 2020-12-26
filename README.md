@@ -9,4 +9,4 @@ Steps to reproduce:
 5. Send POST request: `curl -X POST http://localhost:3000/dev/test --verbose`
 6. You'll see that the request hangs.
 
-On the other hand, if you send a GET request (`curl -X GET http://localhost:3000/dev/test --verbose`), we get a response as expected.
+On the other hand, if you send a GET request (`curl -X GET http://localhost:3000/dev/test --verbose`), you get a response as expected.
