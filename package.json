@@ -1,0 +1,9 @@
+{
+  "name": "sls-offline-hanging-repro",
+  "description": "",
+  "version": "0.1.0",
+  "devDependencies": {
+    "serverless": "^2.16.1",
+    "serverless-offline": "^6.8.0"
+  }
+}
